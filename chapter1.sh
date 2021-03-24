@@ -1,4 +1,5 @@
-# ! /bin/bash
+#!/bin/bash
+
 
 #cat /etc/shell  #shell available under the version
 #ps aux          #display list of process currently running
